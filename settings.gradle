@@ -1,0 +1,2 @@
+rootProject.name='ekinshi_misal'
+include ':app'
